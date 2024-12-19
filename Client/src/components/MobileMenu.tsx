@@ -1,6 +1,6 @@
 import { X, ChevronDown } from "lucide-react"
 import logo from "../assets/logo.svg"
-import Book from "../assets/book.svg"
+import Book from "../assets/Book.svg"
 import Code from "../assets/code.svg"
 import Cloud from "../assets/cloud.svg"
 import Settings from "../assets/Setting.svg"
