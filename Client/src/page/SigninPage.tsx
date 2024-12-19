@@ -7,7 +7,7 @@ import azureIcon from "../assets/azure.svg"
 import gitlabIcon from "../assets/gitlab.svg"
 import chartIcon from "../assets/chart.svg"
 import ssoIcon from "../assets/key.svg"
-import largeLogo from "../assets/lgLogo.png"
+import largeLogo from "../assets/lglogo.png"
 // import { Button } from "@/components/ui/button"
 
 export default function SigninPage() {
