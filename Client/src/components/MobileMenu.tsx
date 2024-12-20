@@ -6,7 +6,7 @@ import Cloud from "../assets/Cloud.svg"
 import Settings from "../assets/Setting.svg"
 import Phone from "../assets/Call.svg"
 import Logout from "../assets/Logout.svg"
-import Home from "../assets/Home.svg"
+import Home from "../assets/Home-d.svg"
 import { Button } from "./ui/button"
 
 interface MobileMenuProps {
